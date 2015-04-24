@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Restaurants, Pubs and Hotels around Hyatt](#restaurants-pubs-hotels)
-- [Add more]
+- Add more
 
 
 
