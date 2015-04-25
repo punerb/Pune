@@ -24,8 +24,8 @@
 
 
 ## Pubs
-- The Irish Village, Koregaon Park extension
-- Hard Rock Cafe - Koregaon Park extension
+- [The Irish Village](https://www.zomato.com/pune/the-irish-village-koregaon-park), Koregaon Park extension
+- [Hard Rock Cafe](https://www.zomato.com/pune/hard-rock-cafe-koregaon-park) - Koregaon Park extension
 
 
 
@@ -33,4 +33,4 @@
 
 
 --
-Inspired from https://github.com/rubysg/singapore
+Inspired from [https://github.com/rubysg/singapore](https://github.com/rubysg/singapore)
