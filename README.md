@@ -19,7 +19,7 @@
 ### Restaurants
 - [Shree Krishna](https://www.zomato.com/pune/shree-krishna-veg-court-viman-nagar) - Viman Nagar, Pune
 - [Shivsagar](https://www.zomato.com/pune/shiv-sagar-viman-nagar) - Viman Nagar, Pune
-- [Rajdhani])https://www.zomato.com/pune/rajdhani-thali-restaurant-viman-nagar) - Phoenix Market City, Viman Nagar, Pune
+- [Rajdhani](https://www.zomato.com/pune/rajdhani-thali-restaurant-viman-nagar) - Phoenix Market City, Viman Nagar, Pune
 - [Punjab Grill](https://www.zomato.com/pune/punjab-grill-viman-nagar) - Phoenix Market City, Viman Nagar, Pune
 
 
