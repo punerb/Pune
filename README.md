@@ -7,10 +7,11 @@
 
 
 
-### Restaurants Pubs Hotels 
+### Hotel, Restaurants and Pubs
+
 ### Hotels
-- Ibis Hotel - Near Hyatt Regency
-- Novotel - Near Hyatt
+- [Ibis Hotel](http://www.ibis.com/gb/hotel-6543-ibis-pune/index.shtml) - Near Hyatt Regency
+- [Novotel](http://www.novotel.com/gb/hotel-6833-novotel-pune-nagar-road/index.shtml) - Near Hyatt
 - Four Points Hotels by Sheraton - Nagar Road
 - Hotel Hindusthan International - Near Hyatt
 
